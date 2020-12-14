@@ -1,0 +1,62 @@
+html {
+	background-color: mintcream;
+}
+
+body {
+	background-color: mintcream;
+}
+
+.welcome-message {
+	text-align: center;
+    padding-top: 23px;
+    position: relative;
+    top:-382px;
+    left: 47px;
+    font-size: 55px;
+    letter-spacing: 2px;
+}
+
+.link-home {
+	width: fit-content;
+    padding: 11px;
+    background: #aba6a6;
+    border-radius: 3px;
+    color: black;
+    font-weight: 500;
+    margin: 0 auto;
+    font-size: 15px;
+    letter-spacing: 2px;
+    position: relative;
+    bottom: 289px;
+    left: 161px;
+    }
+
+.link-home:hover {
+	color: mintcream;
+}
+
+a {
+	color: #1f670e;
+}
+
+a:hover {
+	color: darkgrey;
+}
+
+.plant-home {
+	width: 565px;
+    position: relative;
+    left: 73px;
+    top: 40px;
+}
+
+.teaser-home {
+	position: absolute;
+    top: 352px;
+    left: 44%;
+    font-size: 17px;
+}
+
+.herbs {
+	margin-right: 13px;
+}
